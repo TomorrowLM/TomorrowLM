@@ -18,7 +18,7 @@
 
 <p align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="270" >
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM&&langs_count=8&&theme=vue" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM&&langs_count=8&theme=vue" />
 </p>
 
 <details>
