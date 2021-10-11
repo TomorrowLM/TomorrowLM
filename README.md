@@ -6,7 +6,7 @@
 
  我的邮箱:email: [120329698@qq.com](mailto:120329698@qq.com);
 
-<p align="center">
+<p align="center" style="margin:auto">
   <img src="https://github-readme-stats.vercel.app/api?username=TomorrowLM&show_icons=true&&theme=radical"/>
 </p>
 <p align="center">
