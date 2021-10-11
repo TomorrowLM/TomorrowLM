@@ -10,9 +10,9 @@
 
 
 
+<img align="left" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="300px" />
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="300px" />
 
 
