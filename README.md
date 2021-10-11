@@ -18,7 +18,7 @@
 
 <p align="center">
 ###<img  alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="350" height="270" />
- <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="270" >
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM&&langs_count=8" />
 </p>
 
