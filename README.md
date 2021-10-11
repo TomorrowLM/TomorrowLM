@@ -47,7 +47,7 @@
 </td>
 <td valign="top" width="33%">
 
-### 我的博客
+### 我的博客<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - https://tomorrowlm.github.io/
 
