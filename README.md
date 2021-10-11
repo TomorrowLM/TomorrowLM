@@ -49,7 +49,7 @@
 </td>
 <td valign="top" width="500">
 
-### 我的博客<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+### 我的博客<img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - 🉑[Blog1](https://tomorrowlm.github.io/)
 
