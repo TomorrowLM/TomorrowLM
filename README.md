@@ -13,7 +13,6 @@
  <span color="red">最帅</span> 
  打工人
 </h3>  
-<img width="350px" position="relative" left= "-20px"  height="170px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM&hide_title=true" />
 
 <p align="center"> <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center"></p>
 
