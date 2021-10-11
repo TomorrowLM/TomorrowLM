@@ -5,14 +5,14 @@
  </a>
 </h1>  
 <h3 align="center"> 
-  原名：李明 <img src="https://image.flaticon.com/icons/svg/630/630667.svg" width="28" />
+  原名：李明
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h3>  
 <h5 align="center"> 称号：成大鹿晗</h5>  
 
 
 
-| <p align="center"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TomorrowLM&show_icons=true&theme=buefy&hide_border=true"/><br/></p> | <p align="center"><br/>  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomorrowLM&layout=compact&hide=html&theme=buefy&hide_border=true"/><br/></p> |
+| <p align="center"><br/>  <img align="center"  width="50%" src="https://github-readme-stats.vercel.app/api?username=TomorrowLM&show_icons=true&theme=buefy&hide_border=true"/><br/></p> | <p align="center"><br/>  <img align="center"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomorrowLM&layout=compact&hide=html&theme=buefy&hide_border=true"/><br/></p> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
