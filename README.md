@@ -1,14 +1,10 @@
 ### Hi there 
 
 <p align="center"> TomorrowLM </p>  
-<p align="center"> 原名：李明 🐶   </p>  
+<p align="center"> 原名：李明</p>  
 <p align="center"> 称号：成大鹿晗</p>  
 
-<div align="center">[120329698@qq.com](mailto:120329698@qq.com)</div>
-
-[120329698@qq.com](mailto:120329698@qq.com)
-
- 我的邮箱: [120329698@qq.com](mailto:120329698@qq.com);
+ 我的邮箱:email: [120329698@qq.com](mailto:120329698@qq.com);
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TomorrowLM&show_icons=true&&theme=radical"/>
