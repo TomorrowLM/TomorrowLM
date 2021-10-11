@@ -1,4 +1,9 @@
-<h1 align="center"> TomorrowLM <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>  
+<h1 align="center">
+ TomorrowLM <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+ <a href="mailto:120329698@qq.com">
+   <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" />
+ </a>
+</h1>  
 <h5 align="center"> 原名：李明 </h5>  
 <h5 align="center"> 称号：成大鹿晗</h5>  
 
