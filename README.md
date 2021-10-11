@@ -53,7 +53,7 @@
 
 - <img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>[Blog1](https://tomorrowlm.github.io/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-- <img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>[Blog2](https://tomorrowlm.github.io/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+- <img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>[Blog2](https://tomorrowlm.top/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 </td>
 </tr></table>
