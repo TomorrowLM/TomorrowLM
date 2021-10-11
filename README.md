@@ -18,9 +18,6 @@
 <img align="left" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="330" height="290" />
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TomorrowLM&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
