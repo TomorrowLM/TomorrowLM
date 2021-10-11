@@ -16,6 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM&&langs_count=8" />
 </p>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;graph</b></summary>
