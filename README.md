@@ -2,8 +2,8 @@
 
 
 <h1 align="center"> TomorrowLM </h1>  
-<strong align="center"> 原名：李明 </strong>  
-<strong align="center"> 称号：成大鹿晗</strong>  
+<h3 align="center"> 原名：李明 </h3>  
+<h3 align="center"> 称号：成大鹿晗</h3>  
 
  我的邮箱:email: [120329698@qq.com](mailto:120329698@qq.com);
 
@@ -18,7 +18,7 @@
 
 <p align="center">
 <img  alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="330" height="270" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM&&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM&&langs_count=8" />
 </p>
 
 
