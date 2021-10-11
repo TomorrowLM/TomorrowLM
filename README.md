@@ -49,11 +49,11 @@
 </td>
 <td valign="top" width="500">
 
-### 我的博客<img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+### 我的博客
 
-- 🉑[Blog1](https://tomorrowlm.github.io/)
+- 🉑[Blog1](https://tomorrowlm.github.io/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-- 🉑[Blog2](https://tomorrowlm.github.io/)
+- 🉑[Blog2](https://tomorrowlm.github.io/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 </td>
 </tr></table>
