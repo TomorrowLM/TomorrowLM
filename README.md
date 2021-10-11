@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<img  alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="330" height="290" />
+<img  alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="330" height="285" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM" />
 </p>
 
