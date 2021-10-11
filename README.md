@@ -18,11 +18,11 @@
 
 <p align="center">
 <img  alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="330" height="270" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM&langs_count=5" />
 </p>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TomorrowLM&theme=dracula&langs_count=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TomorrowLM&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
