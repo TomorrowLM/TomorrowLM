@@ -49,9 +49,9 @@
 
 ### 我的博客<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-- [blog1](https://tomorrowlm.github.io/)
+- 🉑[Blog1](https://tomorrowlm.github.io/)
 
-- [blog2](https://tomorrowlm.github.io/)
+- 🉑[Blog2](https://tomorrowlm.github.io/)
 
 </td>
 </tr></table>
