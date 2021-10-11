@@ -13,12 +13,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomorrowLM&layout=compact&hide=html&theme=dark"/>
 </p>
 
-<div align="center"  style="width:100%, margin:auto">
+<p align="center">
 
 <img align="left" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="330" height="290" />
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TomorrowLM&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
