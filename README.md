@@ -6,14 +6,14 @@
 
  我的邮箱:email: [120329698@qq.com](mailto:120329698@qq.com);
 
-<p align="center" style="margin:auto">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TomorrowLM&show_icons=true&&theme=radical"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomorrowLM&layout=compact&hide=html&theme=dark"/>
 </p>
 
-<div align="center">
+<div align="center"  style="width:100%, margin:auto">
 
 <img align="left" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="330" height="290" />
 
