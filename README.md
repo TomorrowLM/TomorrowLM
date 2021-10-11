@@ -9,14 +9,10 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
-
-
 <p align="center">
 <img  alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="350" height="270" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM&&langs_count=8" />
 </p>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;graph</b></summary>
@@ -24,15 +20,12 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=TomorrowLM&theme=dracula"/>
 </details>
 
-
-
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/tomorrowlm/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=TomorrowLM&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
-
 
 </details>
 
