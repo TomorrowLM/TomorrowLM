@@ -10,7 +10,8 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h3>  
 <h3 align="center"> 称号：成大鹿晗, 成都
- <span color="red">最帅</span>打工人
+ <span color="red">最帅</span> 
+ 打工人
 </h3>  
 
 
