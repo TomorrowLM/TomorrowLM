@@ -1,4 +1,4 @@
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/TomorrowLM?tab=repositories)
+
 
 
 <h1 align="center"> TomorrowLM </h1>  
@@ -15,12 +15,14 @@
 </p>
 
 
+
 <p align="center">
 <img  alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="330" height="270" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM" />
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TomorrowLM&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TomorrowLM&theme=dracula&langs_count=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -29,6 +31,7 @@
 
 <table align="center"><tr>
 <td valign="top" width="33%">
+
 
 
 
