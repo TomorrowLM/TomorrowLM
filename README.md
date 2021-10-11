@@ -4,8 +4,7 @@
 **原名：李明 <br/>
 称号：成大鹿晗<br/>**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+📫 我的邮箱: [120329698@qq.com](mailto:120329698@qq.com);
 
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
