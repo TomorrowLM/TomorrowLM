@@ -21,9 +21,11 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM&&langs_count=8" />
 </p>
 
-
+<details>
+<summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;graph</b></summary>
+<br/>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TomorrowLM&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+</details>
 
 
 <details>
