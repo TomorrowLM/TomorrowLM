@@ -46,9 +46,7 @@
 <table align="center"><tr>
 <td valign="top" width="500">
  
-###项目demo
- 
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+### 项目demo
  
 - <img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>[react-demo](http://tomorrowlm.xyz/react-demo/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
  
