@@ -9,10 +9,6 @@
   原名：李明
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h3>  
-<h3 align="center"> 称号：成大鹿晗, 成都
- <span color="red">最帅</span> 
- 打工人
-</h3>  
 
 <p align="center"> <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center"></p>
 
