@@ -30,7 +30,7 @@
  
 ### 项目demo
  
-- <img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>[react-demo](http://tomorrowlm.xyz/react-demo/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+- <img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>[react-demo](http://121.40.61.99/react-demo/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
  
 - <img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>[qiankun-demo](http://121.40.61.99/qiankun/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
  
