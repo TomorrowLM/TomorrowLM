@@ -21,20 +21,6 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomorrowLM&&langs_count=8&theme=vue" />
 </p>
 
-<details>
-<summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;graph</b></summary>
-<br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=TomorrowLM&theme=dracula"/>
-</details>
-
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/tomorrowlm/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=TomorrowLM&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
-
-</details>
 
 ------
 
@@ -46,7 +32,7 @@
  
 - <img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>[react-demo](http://tomorrowlm.xyz/react-demo/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
  
-- <img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>[vue-demo](http://tomorrowlm.xyz/vue-demo/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+- <img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>[qiankun-demo](http://121.40.61.99/qiankun/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
  
 </td>
 <td valign="top" width="500">
@@ -54,8 +40,6 @@
 ### 我的博客
 
 - <img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>[Blog1](https://tomorrowlm.github.io/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-
-- <img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>[Blog2](https://tomorrowlm.top/)<img height="16" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 </td>
 </tr></table>
