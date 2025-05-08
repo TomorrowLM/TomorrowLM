@@ -6,7 +6,7 @@
  </a>
 </h1>  
 <h3 align="center"> 
-  原名：李明
+  作者：李明
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h3>  
 
